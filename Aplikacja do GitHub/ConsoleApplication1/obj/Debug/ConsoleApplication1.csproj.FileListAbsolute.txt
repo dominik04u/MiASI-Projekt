@@ -1,0 +1,12 @@
+c:\users\krzysiek\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\krzysiek\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\krzysiek\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\krzysiek\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+c:\users\krzysiek\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+c:\users\krzysiek\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\krzysiek\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\krzysiek\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+c:\users\krzysiek\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Octokit.dll
+c:\users\krzysiek\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Octokit.pdb
+c:\users\krzysiek\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Octokit.xml
+C:\Users\Krzysiek\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\biz.dfch.CS.Activiti.Client.dll
